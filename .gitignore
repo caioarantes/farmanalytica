@@ -1,0 +1,6 @@
+# Ignore OS files
+desktop.ini
+Thumbs.db
+
+# Ignore placeholder binary files
+*.png
